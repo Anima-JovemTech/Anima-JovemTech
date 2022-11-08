@@ -13,7 +13,7 @@
 
 📚Apoiar à inclusão de jovens talentos no mercado de trabalho.
 
-<img align="right" width="600px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/117736787/200564980-62ddfe39-37c5-47bc-97ae-926dba9225ae.png">
+
 
 ### ✔️MODELO BASEADO EM TRILHAS
 
@@ -21,7 +21,7 @@
 
 
 
-
+<img align="right" width="600px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/117736787/200564980-62ddfe39-37c5-47bc-97ae-926dba9225ae.png">
 
 <div display="inline-block">
  <p align="left">🖥️ Carreira Tech</p>
