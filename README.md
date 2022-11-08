@@ -39,8 +39,8 @@
 
 <div display="inline-block">
  <p align="left">🖥️ Front-end(HTML; CSS; Java Script)</p>
- <p align="left">🖥️ anco de dados relacional,</p>
- <p align="left">🖥️  Ambiente de execução Node JS</p>
+ <p align="left">🖥️ Banco de dados relacional,</p>
+ <p align="left">🖥️ Ambiente de execução Node JS</p>
 </div>
 <br>
 <br>
